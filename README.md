@@ -1,4 +1,4 @@
-↖ _Table of Contents here_
+↖ _The autogenerate table of contents is here_
 
 # bash-gitprompt
 
