@@ -1,0 +1,5 @@
+if [ -f "$HOME/.local/bin/oh-my-posh" ]; then
+    eval "$($HOME/.local/bin/oh-my-posh --init --shell bash --config ~/.ohmyposh/themes/oju.omp.json)"
+else
+    echo "oh-my-posh is missing!!!"
+fi
